@@ -66,7 +66,7 @@
     "magara2024iotprivacy": {
         "author": "Tinashe Magara and Yousheng Zhou",
         "journal": "Hindawi",
-        "keywords": "Uncontrolled data generation from IoT (Internet of Things) devices\uff0c Article",
+        "keywords": "Uncontrolled data generation from IoT (Internet of Things) devices, Article",
         "month": "April",
         "number": "",
         "publisher": "LONDON: Hindawi",
